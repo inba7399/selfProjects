@@ -1,0 +1,21 @@
+#lab{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+#buts{
+    text-align: center;
+}
+.but{
+    padding: 10px 20px;
+    font-size: 1.5;
+    color: hsl(0, 0%, 100%);
+    background-color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.but:hover{
+    background-color: rgb(77, 77, 77);
+}
