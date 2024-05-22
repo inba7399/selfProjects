@@ -1,0 +1,14 @@
+#b1{
+    border-radius: 20%;;
+    color: brown;
+}
+#lab1{
+    font-size: 125%;
+    color: hsl(0, 100%, 50%);
+    font-family: 'Times New Roman', Times, serif;
+}
+#p1{
+    background-color: rgb(77, 77, 255);
+    display: inline-block;
+font-size: 3em;
+}
