@@ -1,0 +1,48 @@
+#box{
+    border-radius: 25%;
+    background-color: black;
+    width: 30em;
+    height: 34em;
+    margin: auto;
+    margin-top: 150px
+}
+#lab{
+    color: white;
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+.l{
+    color: rgb(255, 255, 255);
+    display: block;
+    text-align: center;
+    font-size: 2em;
+    font-family:  'Times New Roman', Times, serif;
+}
+.b{
+margin-left: 148px;
+margin-top: 10px;
+font-size: large;
+padding-top: 5px;
+padding-bottom: 5px;
+text-align: center;
+font-family: fantasy;
+}
+#but{
+    font-family: fantasy;
+    font-size: large;
+    margin-top: 12px;
+    margin-left: 184px;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 1.5;
+    color: hsl(0, 0%, 0%);
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+#but:hover{
+    background-color: rgb(169, 169, 169);
+}
